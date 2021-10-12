@@ -211,3 +211,11 @@ The reserved words are case insensitive.
 ```
 select where having group by order limit as asc desc like in not and or xor between offset
 ```
+
+## Usage
+
+```
+make dist/dql
+cd dist
+dql -h
+```
